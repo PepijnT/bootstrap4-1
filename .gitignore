@@ -7,3 +7,4 @@ Exercise Files/**
 Exercise Files.zip
 .cache
 dist
+*.vscode
